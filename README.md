@@ -4,7 +4,7 @@
 • C
 - 🌱 I’m currently learning ...
 • Python
-I’m looking forwars to collaborating on:
+I’m looking forward to collaborating on:
 • Linux/Unix related stuff, programs 
   and videogames that are open-source
 
