@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A765-ALEX
 - 👀 I’m interested in ...
 • Python
-• C
+• C, C#
 - 🌱 I’m currently learning ...
 • Python
 I’m looking forward to collaborating on:
